@@ -3,4 +3,4 @@ pathlib
 tornado
 jupyter
 gdown
-tdqm
+tqdm
