@@ -4,3 +4,5 @@ tornado
 jupyter
 gdown
 tqdm
+Pillow
+matplotlib
