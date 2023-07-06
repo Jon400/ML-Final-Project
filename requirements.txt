@@ -6,3 +6,4 @@ gdown
 tqdm
 Pillow
 matplotlib
+tensorflow
