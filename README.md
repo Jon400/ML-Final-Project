@@ -4,6 +4,9 @@
 ### Overview on Our project-
 based on the classification of a photo page in social networks by categories : beauty, fashion, fitness, food, family.
 
+### The database we worked with:
+Consists of a large amount of screenshots from as many Instagram pages as possible which will expand the database and the amount of classification tests we can perform. This way we will actually increase the chance of a good classification and the maximum result
+
 ### How did we do it?
 In order to classify we used several classification algorithms such as: 
 
