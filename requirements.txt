@@ -7,3 +7,5 @@ tqdm
 Pillow
 matplotlib
 tensorflow
+sklearn
+keras
