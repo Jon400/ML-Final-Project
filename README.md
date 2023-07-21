@@ -1,5 +1,5 @@
 # ML-Final-Project
-![image](https://github.com/Jon400/ML-Final-Project/assets/94299489/cb35ad54-8132-4e75-ad41-1fa3e85eddc4)
+![image](Machine Learning.jpg)
 
 ### Overview on Our project-
 based on the classification of a photo page in social networks by categories : beauty, fashion, fitness, food, family.
